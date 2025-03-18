@@ -19,6 +19,9 @@
     "allowJs": true,
   },
   "include": [
-    "src/**/*"
+    "src/**/*",
+    "package.json",
+    "package-lock.json",
+    ".env"
   ]
 }

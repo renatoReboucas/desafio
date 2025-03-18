@@ -66,6 +66,7 @@
 				"useDefaultSwitchClause": "error",
 				"useSelfClosingElements": "off",
 				"noShoutyConstants": "warn",
+				"useNumberNamespace": "off",
 				"useNamingConvention": "off",
 				"noNonNullAssertion": "off",
 				"noUnusedTemplateLiteral": "off",

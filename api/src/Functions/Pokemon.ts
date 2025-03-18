@@ -1,4 +1,4 @@
-import type { Pokemon } from '../../Types/Pokemon'
+import type { Pokemon } from '../Types/Pokemon'
 
 export async function createArrayFromAbilities(abilities: Pokemon) {
   const data = []
